@@ -226,6 +226,4 @@ class Student:
         con.close()
 root=Tk()
 ob=Student(root)
-
 root.mainloop()
-
